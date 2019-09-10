@@ -6,3 +6,7 @@ bmi713-2019-groups
 - LeinaEssakalli
 - rushdosh
 - katsudon16
+
+# Github for Open Science
+- Collaboration
+- Open source, easy reproducibility
